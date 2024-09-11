@@ -47,4 +47,4 @@ switch (currentYear) {
         Year = 2027;
         break;
 }
-document.getElementById("current_year").innerHTML = "Today year is " + Year;
+document.getElementById("current_Year").innerHTML = "Today year is " + Year;
